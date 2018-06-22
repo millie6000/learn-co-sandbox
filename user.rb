@@ -19,6 +19,7 @@ end
   
   caroline = Snapchat.new("caroline23","in jamiaca",)
   puts "whats your user name?" 
+  
  name_of_person = gets.chomp 
   puts "that's a cool #{name_of_person}! whats your password?"
    password_of_person=gets.chomp 
