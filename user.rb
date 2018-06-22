@@ -25,10 +25,10 @@ end
   # puts"#{password}, is a weird password. were do you want to be in your story?"
   # puts "okay thanks, this is your profile"
   # story=gets.chomp
-  # sleep(1)
-  # puts "#{name} 
-  # #{story}
-  # forgot your password"
+sleep(1)
+   puts "#{name} 
+  ##{story}
+   forgot your password"
   
   
   
