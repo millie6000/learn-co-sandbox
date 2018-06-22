@@ -18,3 +18,6 @@ end
   # puts "#{millie.name_of_person} posted her story #{millie.story_of_person} and her password is #{millie.password_of_person}"
   
   # caroline = Snapchat.new("caroline23","in jamiaca",)
+  puts "whats your user name?" 
+  name = gets.chomp 
+  puts "that's a cool name!"
